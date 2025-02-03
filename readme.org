@@ -6,37 +6,37 @@
 [[https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure]]
 [[https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white]]
 [[https://img.shields.io/badge/Elm-%2360B5CC.svg?style=for-the-badge&logo=elm&logoColor=white]]
-[[https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white]]
+[[https://img.shields.io/badge/Haskell-%235e5086.svg?style=for-the-badge&logo=haskell&logoColor=white]]
 [[https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white]]
 [[https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white]]
 [[https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E]]
 [[https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white]]
 [[https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white]]
-[[https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683]]
+[[https://img.shields.io/badge/OCTAVE-darkblue.svg?style=for-the-badge&logo=octave&logoColor=fcd683]]
 [[https://img.shields.io/badge/orgmode-%2377AA99.svg?style=for-the-badge&logo=org&logoColor=white]]
-[[https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54]]
+[[https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54]]
 [[https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white]]
 [[https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white]]
 
 * frameworks & libraries
 
 [[https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB]]
-[[https://img.shields.io/badge/-React%20Query-FFFF00?style=for-the-badge&logo=react%20query&logoColor=black]]
-[[https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white]]
+[[https://img.shields.io/badge/-React%20Query-%23FFFF00.svg?style=for-the-badge&logo=react%20query&logoColor=black]]
+[[https://img.shields.io/badge/React_Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white]]
 [[https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white]]
 [[https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white]]
 
 ** ORM
-[[https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white]]
+[[https://img.shields.io/badge/Sequelize-%2352B0E7.svg?style=for-the-badge&logo=Sequelize&logoColor=white]]
 
 * tools
 
 [[https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white]]
 [[https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white]]
-[[https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens]]
+[[https://img.shields.io/badge/JWT-black.svg?style=for-the-badge&logo=JSON%20web%20tokens]]
 [[https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3]]
 [[https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white]]
-[[https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white]]
+[[https://img.shields.io/badge/ESLint-%234B3263.svg?style=for-the-badge&logo=eslint&logoColor=white]]
 [[https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white]]
 [[https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black]]
 [[https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white]]
@@ -45,7 +45,7 @@
 
 [[https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white]]
 [[https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white]]
-[[https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425]]
+[[https://img.shields.io/badge/Gitea-%2334495E.svg?style=for-the-badge&logo=gitea&logoColor=5D9425]]
 [[https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white]]
 
 * backend
@@ -61,18 +61,18 @@ https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apach
 
 * os
 
-[[https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black]]
-[[https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white]]
-[[https://img.shields.io/badge/OpenWRT-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white]]
-[[https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white]]
+[[https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black]]
+[[https://img.shields.io/badge/Debian-%23D70A53.svg?style=for-the-badge&logo=debian&logoColor=white]]
+[[https://img.shields.io/badge/OpenWRT-%2300B5E2.svg?style=for-the-badge&logo=OpenWrt&logoColor=white]]
+[[https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white]]
 
 * misc
 
-[[https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white]]
+[[https://img.shields.io/badge/-Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white]]
 
 * social
 
-[[https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white]]
+[[https://img.shields.io/badge/Meetup-%23f64363.svg?style=for-the-badge&logo=meetup&logoColor=white]]
 
 * my portfolio
 
